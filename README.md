@@ -75,4 +75,4 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/DhruvTyagi18/DhruvTyagi18/output/snake.svg)
