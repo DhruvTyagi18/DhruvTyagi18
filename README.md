@@ -15,7 +15,7 @@
 - ⚡ In addition to solving DSA problems,I'm  **MERN Developer , ML Enthusiast** 
 - 💬 Ask me about **ML , MERN , GenAI**
 - 📫 How to reach me **dhruvtyagi619@gmail.com**
-- 🌱 Visit My Portfolio **https://dhruvtyagi18-portfolio.netlify.app/**
+- 🌱 Visit My Portfolio **https://dhruvtyagi18-portfolio.netlify.app**
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -26,4 +26,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvTyagi18&&theme=tokyonight" alt="DhruvTyagi18" /></p>
-<br clear="both"> <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<br clear="both"> 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
