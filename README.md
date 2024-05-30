@@ -10,11 +10,12 @@
 
 ### :man_technologist: About Me :  
 <div>
+  
 - 🔭 I’m currently pursuing my undergrad from **NIT Delhi**
-
+- ⚡ In addition to solving DSA problems,I'm  **MERN Developer , ML Enthusiast** 
 - 💬 Ask me about **ML , MERN , GenAI**
-
 - 📫 How to reach me **dhruvtyagi619@gmail.com**
+- 🌱 Visit My Portfolio **https://dhruvtyagi18-portfolio.netlify.app/**
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
